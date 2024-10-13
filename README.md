@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @TAKINA-Coder
+- Student of university.
+- From China.
